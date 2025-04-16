@@ -1,1 +1,3 @@
 # Kiya-My-virtual-assistant
+Kiya is an intelligent, voice-activated virtual assistant developed using Python. Designed with a calming female voice and natural, human-like interactions, Kiya aims to simplify everyday digital tasks through speech. From telling the current time, searching the web, opening your favorite sites like YouTube, to playing songs on demand—Kiya does it all, hands-free!
+This project combines text-to-speech, speech recognition, and web automation to create a seamless, real-time voice interface. Its primary goal is to make technology more accessible and interactive—just speak, and Kiya listens, understands, and responds.
