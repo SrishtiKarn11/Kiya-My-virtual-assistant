@@ -48,7 +48,8 @@ SrishtiKarn11
 
 
 ## 🔗 Live Demo  
-👉 [Kiya – My Virtual Assistant](https://srishtikarn11.github.io/Kiya-My-virtual-assistant/)
+👉 ## 🔗 Project Repository
+👉 [Kiya – My Virtual Assistant on GitHub](https://github.com/srishtikarn11/Kiya-My-virtual-assistant)
 
 
 
